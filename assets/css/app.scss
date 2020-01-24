@@ -1,0 +1,13 @@
+---
+---
+$primary: #333333;
+// Import Main CSS file from theme
+@import "main";
+
+.avatar{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
