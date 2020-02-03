@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing some new layouts to Bulma Clean Theme"
+title:  "Test Title"
 date:   2019-07-23 08:00:07
 description: "Introducing Product Pages and Landing Pages for Bulma Clean Theme"
 image: 'https://www.csrhymes.com/img/landing-page.jpg'

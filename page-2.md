@@ -1,17 +1,17 @@
 ---
-title: Page without sidebar
-subtitle: Demo page without the sidebar
+title: CampU
+subtitle: Graph Theory | Traffic | Excitement
 layout: page
 show_sidebar: false
+menubar: example_menu
+hero_image: /img/camp.jpg
 ---
 
-This is another sample page showing how a page can look without a sidebar. 
+![swift](https://img.shields.io/badge/swift-yellow)
+![swift](https://img.shields.io/badge/illustrator-orange)
 
-To hide the sidebar, set the show_sidebar to false in the page's frontmatter
+{:refdef: style="text-align: center;"}
+![CampU]({{ site.baseimg }}/img/campU.png){: height="200px" width="200px"}
+{: refdef}
 
-```yml
-title: Page without sidebar
-subtitle: Demo page without the sidebar
-layout: page
-show_sidebar: false
-```
+CampU, or better known as Camp Elon was an app that several friends and I created this past summer of '19 and launched upon the beginning of fall semester. Camp Elon is a social media app geared towards university students. The app centers around 12 second video sharing. I first showed up on the CampU team before engineering began, and focused mainly on the graphic design side of the company as classes began. Check it out [here!](https://apps.apple.com/us/app/campu/id1479052717)
