@@ -1,6 +1,6 @@
 - label: Projects
   items:
     - name: Carpooler
-      link: /page-1
+      link: /carpooler
     - name: CampU
-      link: /page-2
+      link: /campu

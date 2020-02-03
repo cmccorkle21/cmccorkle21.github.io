@@ -2,8 +2,8 @@
   link: /#
   dropdown:
     - name: Carpooler
-      link: /page-1/
+      link: /carpooler/
     - name: CampU
-      link: /page-2/
+      link: /campu/
 - name: Blog
   link: /blog/
