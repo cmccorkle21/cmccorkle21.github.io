@@ -6,6 +6,6 @@
     - name: CampU
       link: /campu/
     - name: GetPaid
-      link: /GetPaid/
+      link: /getPaid/
 - name: Blog
   link: /blog/
