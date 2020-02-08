@@ -10,7 +10,7 @@ parse_block_html: true
 ---
 <div class="columns is-multiline is-mobile is-centered">
 	<div class="column is-2-desktop is-4-tablet is-6-mobile">
-		<img src="img/circlePortrait.png">
+		<img src="img/circlePortrait.png" alt="Cole McCorkle">
 	</div>
 <div class="column is-6-desktop is-6-tablet is-12-mobile content" markdown="1">
 
