@@ -1,6 +1,6 @@
 ---
 title: CampU
-subtitle: Graph Theory | Traffic | Excitement
+subtitle: College | Social Media
 layout: page
 show_sidebar: false
 menubar: example_menu
