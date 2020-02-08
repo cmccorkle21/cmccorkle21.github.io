@@ -4,10 +4,10 @@ subtitle: Dolla bills y'all
 layout: page
 show_sidebar: false
 menubar: example_menu
-hero_image: /img/money.jpg
+hero_image: /img/dollar.jpg
 ---
 
-![python](https://img.shields.io/badge/python-green)
+![python](https://img.shields.io/badge/python-3.7-green)
 ![googleCal](https://img.shields.io/badge/Google Calendar-blue)
 
 

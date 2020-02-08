@@ -7,7 +7,7 @@ menubar: example_menu
 hero_image: /img/camp.jpg
 ---
 
-![swift](https://img.shields.io/badge/swift-yellow)
+![swift](https://img.shields.io/badge/swift-5.0-yellow)
 ![swift](https://img.shields.io/badge/illustrator-orange)
 
 {:refdef: style="text-align: center;"}
