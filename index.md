@@ -2,7 +2,7 @@
 title: Cole McCorkle
 subtitle: Computer Scientist | Graphic Designer | Singer
 layout: page
-hero_image: img/macbook1.jpg
+hero_image: img/laptop1.jpg
 hero_height: is-fullheight
 show_sidebar: false
 parse_block_html: true
