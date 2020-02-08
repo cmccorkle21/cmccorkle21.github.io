@@ -1,8 +1,8 @@
 - label: Projects
   items:
     - name: Carpooler
-      link: /carpooler
+      link: /carpooler/
     - name: CampU
-      link: /campu
+      link: /campu/
     - name: GetPaid
       link: /getPaid/
