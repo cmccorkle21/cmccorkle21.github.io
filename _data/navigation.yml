@@ -1,9 +1,11 @@
 - name: Projects
-  link: /#
+  link: /Projects/
   dropdown:
     - name: Carpooler
       link: /carpooler/
     - name: CampU
       link: /campu/
+    - name: GetPaid
+      link: /GetPaid/
 - name: Blog
   link: /blog/

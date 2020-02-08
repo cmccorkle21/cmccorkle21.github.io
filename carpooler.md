@@ -7,7 +7,7 @@ menubar: example_menu
 hero_image: /img/traffic.jpg
 ---
 
-![java](https://img.shields.io/badge/java-green)
+![java](https://img.shields.io/badge/java-red)
 
 Carpooler is one of the first computer science "research" projects I ever completed. I put research in quotations for several reasons which we'll get to. This project was conducted in the spring of 2018, the year I graduated high school. Don't expect the highest caliber peak efficiency programming in this project, but look to appreciate the opportunity I was given to do such a project as a senior in highschool. [Here](https://github.com/cmccorkle21/carpool-graph-theory) is a link to the GitHub project.
 

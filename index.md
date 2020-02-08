@@ -5,11 +5,17 @@ layout: page
 hero_image: img/macbook1.jpg
 hero_height: is-fullheight
 show_sidebar: false
+parse_block_html: true
+
 ---
+<div class="columns is-multiline is-mobile is-centered">
+	<div class="column is-2-desktop is-4-tablet is-6-mobile">
+		<img src="img/circlePortrait.png">
+	</div>
+<div class="column is-6-desktop is-6-tablet is-12-mobile content" markdown="1">
 
 # Who am I?
-
-![me](/img/avatar.jpg){:height="200px" width="200px"}
+{: style="text-align: center"}
 
 Hello! My name is Cole McCorkle and I'm a full time student at Elon Universtiy in Elon, NC.
 
@@ -20,3 +26,5 @@ I am currently pursuing a degree in Computer Science with minors in Data Science
 Please feel free to take a look around!
 <br><br>
 P.S. I'm currently developing this website. Disregard anything wonky :)
+</div>
+</div>
