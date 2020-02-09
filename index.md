@@ -16,7 +16,7 @@ parse_block_html: true
 # Who am I?
 {: style="text-align: center"}
 
-Hello! My name is Cole McCorkle and I'm a full time student at Elon Universtiy in Elon, NC.
+Hello! My name is Cole McCorkle and I'm a full-time student at Elon University in Elon, NC.
 
 I have over five years of experience programming, from early steam chat-bots to this website(!) to social media apps, I like to vary my projects.
 
