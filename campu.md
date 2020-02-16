@@ -8,7 +8,7 @@ hero_image: /img/camp.jpg
 ---
 
 ![swift](https://img.shields.io/badge/swift-5.0-yellow)
-![swift](https://img.shields.io/badge/illustrator-orange)
+![swift](https://img.shields.io/badge/illustrator-black?style=flat&logo=adobe-illustrator)
 
 {:refdef: style="text-align: center;"}
 ![CampU]({{ site.baseimg }}/img/campU.png){: height="200px" width="200px"}
