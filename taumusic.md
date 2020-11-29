@@ -1,13 +1,13 @@
 ---
-title: CampU
-subtitle: College | Social Media
+title: TauMusic
+subtitle: Music | Programming
 layout: page
 show_sidebar: false
 menubar: example_menu
-hero_image: /img/camp.jpg
+hero_image: /img/tauMusic.jpg
 ---
 
-![swift](https://img.shields.io/badge/swift-5.0-yellow)
+![swift](https://img.shields.io/badge/swift-5.1-orange)
 ![illustrator](https://img.shields.io/badge/illustrator-black?style=flat&logo=adobe-illustrator)
 
 {:refdef: style="text-align: center;"}

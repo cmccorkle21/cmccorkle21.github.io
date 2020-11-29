@@ -7,5 +7,7 @@
       link: /campu/
     - name: GetPaid
       link: /getPaid/
+    - name: TauMusic
+      link: /taumusic/
 - name: Blog
   link: /blog/

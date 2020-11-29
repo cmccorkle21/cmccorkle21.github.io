@@ -1,0 +1,17 @@
+Access control - want to keep system reseources separate
+fileSize won't always show tampering if they edit the same num of chars
+
+checksum
+	number that represents the contents of a file mathematically
+		cksum filename - generates a number that can be used to detect changes
+	not made for checking tampering
+	not cryptographically secure, it only guards against accidental corruption, very easy to produce collisions (2 files with the same cksum)
+
+openssl sha1
+	secure hash algorithm 1 - produces a much longer checksum
+
+
+prove who sent an email
+	signed with digital signatures
+
+	bytes in hashing algorithm / 4 = length of checksum
