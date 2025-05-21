@@ -18,7 +18,7 @@ parse_block_html: true
 
 Hello! My name is Cole McCorkle and I'm a full-time software engineer.
 
-I have over nine years of experience programming, from steam chat bots in 2015 to developer tooling and APIs in 2025, I like to keep my projects varied.
+I have over nine years of experience programming. From steam chat bots in 2015 to developer tooling and APIs in 2025, my work has been qutie varied.
 
 I attended Elon University where I got my bachelors degree in Computer Science with minors in Data Science and Sociology.
 
