@@ -16,11 +16,11 @@ parse_block_html: true
 # Who am I?
 {: style="text-align: center"}
 
-Hello! My name is Cole McCorkle and I'm a full-time student at Elon University in Elon, NC.
+Hello! My name is Cole McCorkle and I'm a full-time software engineer.
 
-I have over five years of experience programming, from early steam chat-bots to this website(!) to social media apps, I like to vary my projects.
+I have over nine years of experience programming, from steam chat bots in 2015 to developer tooling and APIs in 2025, I like to keep my projects varied.
 
-I am currently pursuing a degree in Computer Science with minors in Data Science and Sociology.
+I attended Elon University where I got my bachelors degree in Computer Science with minors in Data Science and Sociology.
 
 Please feel free to take a look around!
 </div>
